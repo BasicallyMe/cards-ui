@@ -18,7 +18,7 @@ export default function Home() {
           </Link>
         </nav>
         <a
-          href="#cards"
+          href="https://github.com/BasicallyMe/cards-ui.git"
           className="bottom-3 animate-bounce absolute bg-slate-100 shadow-lg rounded-full w-9 h-9 flex flex-col justify-center items-center"
         >
           <ArrowDown size={20} strokeWidth={1.8} />
