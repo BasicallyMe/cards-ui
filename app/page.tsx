@@ -12,13 +12,13 @@ export default function Home() {
             <CreditCard size={20} strokeWidth={1.5} />
             <div className="text-sm font-medium">Cards UI</div>
           </div>
-          <Link href="#" className="text-sm font-medium flex items-center gap-3">
+          <Link href="https://github.com/BasicallyMe/cards-ui.git" className="text-sm font-medium flex items-center gap-3">
             Github
             <ExternalLink size={16} strokeWidth={1.5} />
           </Link>
         </nav>
         <a
-          href="https://github.com/BasicallyMe/cards-ui.git"
+          href="#cards"
           className="bottom-3 animate-bounce absolute bg-slate-100 shadow-lg rounded-full w-9 h-9 flex flex-col justify-center items-center"
         >
           <ArrowDown size={20} strokeWidth={1.8} />
